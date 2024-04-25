@@ -1,0 +1,51 @@
+﻿@model MoviePostViewModel
+@{
+    var listGenre = (List<GenreGetViewModel>)ViewData["ListGenreViewModel"];
+}
+<div class="container">
+    <form style="margin-top:20px" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" aria-describedby="emailHelp">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div> 
+        
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Desc</label>
+            <input asp-for="Desc" class="form-control" aria-describedby="emailHelp">
+            <span asp-validation-for="Desc" class="text-danger"></span>
+        </div>   
+        
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">CostPrice</label>
+            <input asp-for="CostPrice" class="form-control" aria-describedby="emailHelp">
+            <span asp-validation-for="CostPrice" class="text-danger"></span>
+        </div>    
+        
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">SalePrice</label>
+            <input asp-for="SalePrice" class="form-control" aria-describedby="emailHelp">
+            <span asp-validation-for="SalePrice" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Selections</label>
+            <select asp-for="GenreId" asp-items="@(new SelectList(listGenre,"Id","Name"))" class="form-select" style="width:200px"></select>
+            <span asp-validation-for="GenreId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">IsDeleted</label>
+            <input asp-for="IsDeleted" type="checkbox" class="checkbox" aria-describedby="emailHelp">
+            <span asp-validation-for="IsDeleted" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">ImageFile</label>
+            <input asp-for="ImageFile" class="form-control" aria-describedby="emailHelp">
+            <span asp-validation-for="ImageFile" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>
+

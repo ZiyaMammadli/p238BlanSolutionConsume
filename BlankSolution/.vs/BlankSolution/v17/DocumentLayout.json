@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\areas\\admin\\controlllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\areas\\admin\\controlllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305A0E-46A9-4563-94C6-FE32A7957C56}|src\\BlankSolution.API\\BlankSolution.API.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305A0E-46A9-4563-94C6-FE32A7957C56}|src\\BlankSolution.API\\BlankSolution.API.csproj|solutionrelative:src\\blanksolution.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\wwwroot\\admin\\assets\\js\\deletejs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\wwwroot\\admin\\assets\\js\\deletejs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A15FE79-95E1-4666-BAE3-A53B6AD96A3B}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.core\\entities\\movieimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A15FE79-95E1-4666-BAE3-A53B6AD96A3B}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|solutionrelative:src\\blanksolution.core\\entities\\movieimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\areas\\admin\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\areas\\admin\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\areas\\admin\\viewmodels\\movieviewmodel\\moviegetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\areas\\admin\\viewmodels\\movieviewmodel\\moviegetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\areas\\admin\\viewmodels\\movieviewmodel\\moviedeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\areas\\admin\\viewmodels\\movieviewmodel\\moviedeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.business\\dtos\\moviedtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\dtos\\moviedtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A15FE79-95E1-4666-BAE3-A53B6AD96A3B}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A15FE79-95E1-4666-BAE3-A53B6AD96A3B}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|solutionrelative:src\\blanksolution.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.business\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67430F4-28C0-4B8F-9FB1-FB44D7CC95A0}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\areas\\admin\\viewmodels\\movieviewmodel\\moviepostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\areas\\admin\\viewmodels\\movieviewmodel\\moviepostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.mvc\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F4D062-FD48-4C48-B5D1-DD0C01ACAB09}|src\\BlankSolution.MVC\\BlankSolution.MVC.csproj|solutionrelative:src\\blanksolution.mvc\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A15FE79-95E1-4666-BAE3-A53B6AD96A3B}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|c:\\users\\user\\source\\repos\\blansolution\\p238-mvc-consume\\blanksolution\\src\\blanksolution.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A15FE79-95E1-4666-BAE3-A53B6AD96A3B}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|solutionrelative:src\\blanksolution.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieDeleteViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieDeleteViewModel.cs",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieDeleteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:00:23.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteJs.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\wwwroot\\Admin\\assets\\js\\DeleteJs.js",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\wwwroot\\Admin\\assets\\js\\DeleteJs.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\wwwroot\\Admin\\assets\\js\\DeleteJs.js",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\wwwroot\\Admin\\assets\\js\\DeleteJs.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T06:57:47.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "src\\BlankSolution.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:32:18.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Controlllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Areas\\Admin\\Controlllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Controlllers\\MovieController.cs",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Areas\\Admin\\Controlllers\\MovieController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:01:58.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T05:37:29.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoviePostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MoviePostViewModel.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MoviePostViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MoviePostViewModel.cs",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MoviePostViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:33:43.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T05:32:09.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:03:26.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "RelativeToolTip": "src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:03:01.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Business\\DTOs\\MovieDTOs\\MovieGetDto.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\DTOs\\MovieDTOs\\MovieGetDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Business\\DTOs\\MovieDTOs\\MovieGetDto.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\DTOs\\MovieDTOs\\MovieGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:55:01.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "src\\BlankSolution.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:41:26.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieImage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Core\\Entities\\MovieImage.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Core\\Entities\\MovieImage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.Core\\Entities\\MovieImage.cs",
+              "RelativeToolTip": "src\\BlankSolution.Core\\Entities\\MovieImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:41:25.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieGetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieGetViewModel.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieGetViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieGetViewModel.cs",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Areas\\Admin\\ViewModels\\MovieViewModel\\MovieGetViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:07:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BlanSolution\\P238-MVC-Consume\\BlankSolution\\src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "src\\BlankSolution.MVC\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:07:07.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
